@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/avito-gallery-test/static/css/main.00b3ef78.chunk.css",
+    "main.js": "/avito-gallery-test/static/js/main.86c5b910.chunk.js",
+    "main.js.map": "/avito-gallery-test/static/js/main.86c5b910.chunk.js.map",
+    "runtime-main.js": "/avito-gallery-test/static/js/runtime-main.0e252189.js",
+    "runtime-main.js.map": "/avito-gallery-test/static/js/runtime-main.0e252189.js.map",
+    "static/js/2.70bb1796.chunk.js": "/avito-gallery-test/static/js/2.70bb1796.chunk.js",
+    "static/js/2.70bb1796.chunk.js.map": "/avito-gallery-test/static/js/2.70bb1796.chunk.js.map",
+    "index.html": "/avito-gallery-test/index.html",
+    "static/css/main.00b3ef78.chunk.css.map": "/avito-gallery-test/static/css/main.00b3ef78.chunk.css.map",
+    "static/js/2.70bb1796.chunk.js.LICENSE.txt": "/avito-gallery-test/static/js/2.70bb1796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e252189.js",
+    "static/js/2.70bb1796.chunk.js",
+    "static/css/main.00b3ef78.chunk.css",
+    "static/js/main.86c5b910.chunk.js"
+  ]
+}
