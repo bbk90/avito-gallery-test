@@ -1,0 +1,8 @@
+.gallery {
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    justify-content: center;
+    margin: 0 auto;
+}
